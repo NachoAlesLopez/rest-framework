@@ -3,6 +3,7 @@ exclude: |
   # NOT INSTALLABLE ADDONS
   ^base_rest/|
   ^base_rest_auth_api_key/|
+  ^base_rest_datamodel/|
   ^base_rest_pydantic/|
   ^extendable/|
   ^fastapi/|
